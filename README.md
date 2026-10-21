@@ -32,3 +32,7 @@ py -3.11 -m venv .venv
 Для видео нужен **ffmpeg** в PATH (`winget install ffmpeg`) или `ffmpeg.exe` + `ffprobe.exe` в `%APPDATA%\HomeArchiveLab\tools`.
 
 Настройки, кэш миниатюр и Real-ESRGAN хранятся в `%APPDATA%\HomeArchiveLab`.
+
+## Лицензия
+
+[MIT](LICENSE)
